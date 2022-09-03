@@ -20,5 +20,5 @@ This is a landing page. I have developed it using HTML, CSS.
 
 
 ### Website Preview:
-<img src="./images/Cappucino-Cafe.png" alt="Cappucino cafe">
+<img src="./images/Cappuccino-Cafe.png" alt="Cappuccino cafe">
 
